@@ -1,5 +1,10 @@
 
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Programmers Need More Math](https://ytcards.demolab.com/?id=gHRVhL1fZC0&title=Programmers+Need+More+Math&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=317 "Programmers Need More Math")](https://www.youtube.com/watch?v=gHRVhL1fZC0)
+[![How to DESTROY Developer Productivity (avoid at all costs)](https://ytcards.demolab.com/?id=vl6SQZWRaks&title=How+to+DESTROY+Developer+Productivity+%28avoid+at+all+costs%29&lang=en&timestamp=1725462064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=784 "How to DESTROY Developer Productivity (avoid at all costs)")](https://www.youtube.com/watch?v=vl6SQZWRaks)
+[![Everything You Need to Know about Git](https://ytcards.demolab.com/?id=K6Q31YkorUE&title=Everything+You+Need+to+Know+about+Git&lang=en&timestamp=1724864414&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1396 "Everything You Need to Know about Git")](https://www.youtube.com/watch?v=K6Q31YkorUE)
+[![Abstraction - Java OOP](https://ytcards.demolab.com/?id=Om2kORezNu8&title=Abstraction+-+Java+OOP&lang=en&timestamp=1724774421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=59 "Abstraction - Java OOP")](https://www.youtube.com/watch?v=Om2kORezNu8)
+[![Polymorphism - Java OOP](https://ytcards.demolab.com/?id=CWX3txO1jP0&title=Polymorphism+-+Java+OOP&lang=en&timestamp=1724688018&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=56 "Polymorphism - Java OOP")](https://www.youtube.com/watch?v=CWX3txO1jP0)
+[![Inheritance - Java OOP](https://ytcards.demolab.com/?id=I8rdKkcKbB0&title=Inheritance+-+Java+OOP&lang=en&timestamp=1724601613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43 "Inheritance - Java OOP")](https://www.youtube.com/watch?v=I8rdKkcKbB0)
 <!-- END YOUTUBE-CARDS -->
