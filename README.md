@@ -75,6 +75,4 @@ I'm a software developer with a diverse skill set including JavaScript, React.js
 ## 📊 Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=hadi14250&theme=gruvbox&border_radius=4.5)
 
-
-<br>
 <br>
