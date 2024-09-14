@@ -3,10 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=arial&weight=500&size=16&duration=4000&pause=1000&color=E07155&width=435&lines=Hello+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I'm+Hadi;Software+Engineer...;and+Project+Manager.;If+you+like+my+portfolio%2C;Drop+a+follow+and+leave+a+star.;Have+a+good+day!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
- ## 💁  Hadi Kaddoura
-
-
----
+ # 💁  Hadi Kaddoura
 
 **`Tech Innovator (Software_Engineer/Prject_Manager)`**
 
