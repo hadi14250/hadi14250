@@ -14,6 +14,8 @@ I'm a software developer with a diverse skill set including JavaScript, React.js
 - **Data Structures**: 🗂️ Implemented various data structures
 - **Algorithms**: 🧩 Mastered sorting algorithms and synchronization techniques in C
 - **Projects**:
+  - 📚 Created a C library, containing various standard library functions from scratch.
+  - 🖨️ Built a custom `printf` function
   - 💻 Built a basic command line interface
   - 🎮 Developed a 3D game using C graphics libraries
   - 🌐 Created an IRC server in C++
