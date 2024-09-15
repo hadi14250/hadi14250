@@ -11,11 +11,11 @@ I'm a software developer with a diverse skill set including JavaScript, React.js
 
 ## 42 Abu Dhabi Education Journey
 
-- **Data Structures**: 🗂️ Implemented various data structures: Queues, Deques, Linked Lists, Stacks, Vectors, and Maps
-- **Algorithms**: 🧩 Mastered sorting algorithms and synchronization techniques in C
+- **Data Structures**: 🗂️ Implemented various data structures: Queues, Deques, Linked Lists, Stacks, Vectors, and Maps.
 - **Projects**:
   - 📚 Created a C library, containing various standard library functions from scratch
   - 🖨️ Built a custom `printf` function
+  - 📊 Invented an optimized stack-sorting algorithm for efficiently sorting numbers.
   - 🍝 Implemented the Philosophers problem to explore multithreading and synchronization
   - 💻 Built a basic command line interface
   - 🌐 Configured network protocols and managed complex network configurations
