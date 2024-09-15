@@ -74,6 +74,15 @@ I'm a software developer with a diverse skill set including JavaScript, React.js
 ## 📺 Watch My Video
 
 [![My 42 Journey](https://ytcards.demolab.com/?id=q9rdoCJ2eDc&title=My+42+Abu+Dhabi+Journey&lang=en&timestamp=1694819000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=108 "My 42 Journey")](https://www.youtube.com/watch?v=q9rdoCJ2eDc)
+
+
+## Testing youtube vids
+
+<!-- BEGIN YOUTUBE-CARDS -->
+
+
+<!-- END YOUTUBE-CARDS -->
+
 <br>
 <br>
 
