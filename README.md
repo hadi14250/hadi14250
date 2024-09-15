@@ -68,16 +68,12 @@ I'm a software developer with a diverse skill set including JavaScript, React.js
 <br>
 <br>
 
-<br>
-<br>
-
-## 📺 Watch My Video
+## 📺 Checkout My Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Meet Your Peers   Hadi Kaddoura](https://ytcards.demolab.com/?id=NgThftI--EA&title=Meet+Your+Peers+++Hadi+Kaddoura&lang=en&timestamp=1726251279&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=108 "Meet Your Peers   Hadi Kaddoura")](https://www.youtube.com/watch?v=NgThftI--EA)
 <!-- END YOUTUBE-CARDS -->
 
-<br>
 <br>
 
 ## 📊 Stats
