@@ -13,17 +13,18 @@ I'm a software developer with a diverse skill set including JavaScript, React.js
 
 - **Data Structures**: 🗂️ Implemented various data structures: Queues, Deques, Linked Lists, Stacks, Vectors, and Maps.
 - **Projects**:
-  - 📚 Created a C library, containing various standard library functions from scratch
-  - 🖨️ Built a custom `printf` function
+  - 📚 Created a C library, containing various standard library functions from scratch.
+  - 🖨️ Built a custom `printf` function.
   - 📊 Invented an optimized stack-sorting algorithm for efficiently sorting numbers.
-  - 🍝 Implemented the Philosophers problem to explore multithreading and synchronization
-  - 💻 Built a basic command line interface
-  - 🌐 Configured network protocols and managed complex network configurations
-  - 🎮 Developed a 3D game using C graphics libraries
-  - 🌐 Created an IRC server in C++
-  - 🚀 Automated the deployment of a full-stack website using Docker
-  - 🕹️ Developed a Pong game using JavaScript and Django
-- **Skills**: 🏆 Expanded expertise in Object-Oriented Programming
+  - 🍝 Implemented the Philosophers problem to explore multithreading and synchronization.
+  - 💻 Built a basic command line interface.
+  - 🌐 Configured network protocols and managed complex network configurations.
+  - 🎮 Developed a 3D game using C graphics libraries.
+  - 📚 Broadened OOP skills, covering memory management, operator overloading, inheritance, polymorphism, abstraction, templates, STL, and smart pointers.
+  - 🌐 Created an IRC server in C++.
+  - 🚀 Automated the deployment of a full-stack website using Docker.
+  - 🕹️ Developed a Pong game using JavaScript and Django.
+- **Skills**: 🏆 OOP, 
 - **Competitions**: 🏅 Participated in and won multiple hackathons
 - **Media**: 🎬 Featured in a short film about my 42 journey 
 
