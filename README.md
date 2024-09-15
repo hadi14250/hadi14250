@@ -11,7 +11,7 @@ I'm a software developer with a diverse skill set including JavaScript, React.js
 
 ## 42 Abu Dhabi Education Journey
 
-- **Data Structures**: 🗂️ Implemented various data structures
+- **Data Structures**: 🗂️ Implemented various data structures: Queues, Deques, Linked Lists, Stacks, Vectors, and Maps
 - **Algorithms**: 🧩 Mastered sorting algorithms and synchronization techniques in C
 - **Projects**:
   - 📚 Created a C library, containing various standard library functions from scratch
