@@ -5,7 +5,7 @@
 
  # 💁  Hadi Kaddoura
 
-**`Tech Innovator (Software_Engineer/Prject_Manager)`**
+**`Tech Innovator (Software_Engineer/Prject_Manager/CO_Founder_Of_Talent_Hub)`**
 
 I'm a software developer with a diverse skill set including JavaScript, React.js, Vue.js, and Django. I specialize in creating efficient algorithms in C/C++ and utilizing Docker for streamlined development. My academic journey took place at 42 Abu Dhabi, where I also worked as a Project Manager leading a team of 5 to develop Talent Hub, a scalable video screening web application for the Department of Education and Knowledge (ADEK).
 
@@ -24,7 +24,7 @@ I'm a software developer with a diverse skill set including JavaScript, React.js
   - 🌐 Created an IRC server in C++.
   - 🚀 Automated the deployment of a full-stack website using Docker.
   - 🕹️ Developed a Pong game using JavaScript and Django.
-- **Skills**: 🏆 Front-end and Back-end Development, multithreading and synchronization, networking, OOP, Docker, Project Managment. 
+- **Skills**: 🏆 front-end and back-end development, multithreading and synchronization, networking, OOP, Docker, Project Managment. 
 - **Competitions**: 🏅 Participated in and won multiple hackathons
 - **Media**: 🎬 Featured in a short film about my 42 journey 
 
