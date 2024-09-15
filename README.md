@@ -20,11 +20,11 @@ I'm a software developer with a diverse skill set including JavaScript, React.js
   - 💻 Built a basic command line interface.
   - 🌐 Configured network protocols and managed complex network configurations.
   - 🎮 Developed a 3D game using C graphics libraries.
-  - 📚 Broadened OOP skills, covering memory management, operator overloading, inheritance, polymorphism, abstraction, templates, STL, and smart pointers.
+  - 📚 Broadened OOP skills, covering memory management, operator overloading, inheritance, polymorphism, abstraction, templates, the STL, and smart pointers.
   - 🌐 Created an IRC server in C++.
   - 🚀 Automated the deployment of a full-stack website using Docker.
   - 🕹️ Developed a Pong game using JavaScript and Django.
-- **Skills**: 🏆 OOP, 
+- **Skills**: 🏆 Front-end and Back-end Development, multithreading and synchronization, networking, OOP, Docker, Project Managment. 
 - **Competitions**: 🏅 Participated in and won multiple hackathons
 - **Media**: 🎬 Featured in a short film about my 42 journey 
 
