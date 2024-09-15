@@ -67,6 +67,7 @@ I'm a software developer with a diverse skill set including JavaScript, React.js
 
 <br>
 <br>
+<br>
 
 ## 📺 Checkout My Videos
 
