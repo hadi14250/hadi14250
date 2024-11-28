@@ -72,7 +72,10 @@ I'm a software developer with a diverse skill set including JavaScript, React.js
 ## 📺 Checkout My Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![The Future of Screening With TalentHub](https://ytcards.demolab.com/?id=q0-TqPUtgBE&title=The+Future+of+Screening+With+TalentHub&lang=en&timestamp=1726983961&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40 "The Future of Screening With TalentHub")](https://www.youtube.com/watch?v=q0-TqPUtgBE)
+[![Candidate Experience | Revolutionise Your Screening Process with Talent Hub](https://ytcards.demolab.com/?id=nQHUImPGAT8&title=Candidate+Experience+%7C+Revolutionise+Your+Screening+Process+with+Talent+Hub&lang=en&timestamp=1726387507&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=80 "Candidate Experience | Revolutionise Your Screening Process with Talent Hub")](https://www.youtube.com/watch?v=nQHUImPGAT8)
+[![Recruiter Experience | Revolutionise Your Screening Process with Talent Hub](https://ytcards.demolab.com/?id=Bf5U9dBt7d8&title=Recruiter+Experience+%7C+Revolutionise+Your+Screening+Process+with+Talent+Hub&lang=en&timestamp=1726387068&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=91 "Recruiter Experience | Revolutionise Your Screening Process with Talent Hub")](https://www.youtube.com/watch?v=Bf5U9dBt7d8)
+[![My 42 Journey](https://ytcards.demolab.com/?id=NgThftI--EA&title=My+42+Journey&lang=en&timestamp=1726251279&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=108 "My 42 Journey")](https://www.youtube.com/watch?v=NgThftI--EA)
 <!-- END YOUTUBE-CARDS -->
 
 <br>
